@@ -1,0 +1,65 @@
+# .NET build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Coverage & profiling
+*.dotCover
+*.ncrunch*
+.*crunch*.local.xml
+
+# Entity Framework
+*.ide.db
+*.dbmdl
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Local history for Visual Studio Code
+.history/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Others
+*.swp
+*.bak
+*.tmp
